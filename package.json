@@ -1,0 +1,24 @@
+{
+  "name": "18652-programming-assignment",
+  "version": "1.0.0",
+  "description": "FSE Chat Room Web Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Polyhedron-Zero/18652-programming-assignment.git"
+  },
+  "author": "Qiaoyi Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polyhedron-Zero/18652-programming-assignment/issues"
+  },
+  "homepage": "https://github.com/Polyhedron-Zero/18652-programming-assignment",
+  "dependencies": {
+    "express": "^4.13.3",
+    "socket.io": "~1.3.6",
+    "mime": "~1.3.4"
+  }
+}

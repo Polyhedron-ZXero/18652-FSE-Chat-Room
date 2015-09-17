@@ -1,0 +1,100 @@
+﻿html {
+    height: 100%;
+}
+
+header {
+    background-color: #3893e1;
+    height: 55px;
+}
+
+header h1 {
+    font-size: 32px;
+    padding: 5px;
+    padding-left: 20px;
+    color: white;
+    margin: 0px;
+}
+
+body {
+    font: 15px "Microsoft YaHei", "Segoe UI", Helvetica, Calibri, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+#login {
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+}
+
+#login-form {
+    text-align: center;
+}
+
+#enter-button {
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    display: block;
+}
+
+#content {
+    width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#room {
+    display: none;
+}
+
+#user {
+    background-color: #32c5ff;
+    color: white;
+    margin-top: 6px;
+    padding: 4px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+}
+
+#enter-button {
+    width: 200px;
+    height: 50px;
+}
+
+#nickname {
+    display: inline-block;
+    font-weight: bold;
+}
+
+#logout {
+    display: inline-block;
+    float: right;
+}
+
+#messages {
+    width: 640px;
+    height: 600px;
+    overflow: auto;
+    background-color: #eeeeee;
+    margin-top: 6px;
+    margin-bottom: 6px;
+    padding-top: 8px;
+    padding-bottom: 10px;
+}
+
+#send-message {
+    width: 570px;
+    float: left;
+}
+
+#send-button {
+    height: 66px;
+    width: 59px;
+    font-size: 16px;
+    float: right;
+}
